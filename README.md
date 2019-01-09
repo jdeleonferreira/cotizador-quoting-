@@ -22,3 +22,5 @@ Package                      Version
 @schematics/update           0.8.9
 rxjs                         6.2.2
 typescript                   2.9.2
+
+bootstrap@4.2.1
