@@ -13,8 +13,6 @@ Angular CLI: 6.2.9
 Node: 8.11.3
 OS: win32 x64
 Angular:
-...
-
 Package                      Version
 ------------------------------------------------------
 @angular-devkit/architect    0.8.9
